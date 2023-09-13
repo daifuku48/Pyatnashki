@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pyatnashki</string>
+    <string name="start">Start</string>
+    <string name="fifteen_game">Fifteen game</string>
+    <string name="game_is_finished">Game is Finished</string>
+    <string name="restart">Restart</string>
+    <string name="restart_">Restart</string>
+</resources>
